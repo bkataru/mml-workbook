@@ -1,0 +1,7 @@
+name: mml-workbook
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - requests
+  - jupyter
